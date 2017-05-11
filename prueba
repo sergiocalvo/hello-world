@@ -1,1 +1,2 @@
+#!groovy
 echo 'Mensaje de prueba'
